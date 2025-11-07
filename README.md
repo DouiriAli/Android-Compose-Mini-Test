@@ -1,8 +1,3 @@
-Video
-------------
-
-[![Watch the video](demo/video.mp4)]
-
 Architecture
 ------------
 
